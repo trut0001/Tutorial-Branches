@@ -1,0 +1,8 @@
+---
+title: "Learning to merge"
+format: html
+editor: visual
+author: "Travis Rutledge"
+Date: "09/04/2024"
+---
+
