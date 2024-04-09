@@ -6,3 +6,19 @@ author: "Travis Rutledge"
 Date: "09/04/2024"
 ---
 
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+data(package = "palmerpenguins")
+ggplot(penguins, aes(x = bill
+_
+depth
+_
+mm, y = flipper
+_
+length
+_
+mm, color = species
+geom
+_point()
+```
